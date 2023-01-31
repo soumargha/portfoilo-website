@@ -1,0 +1,19 @@
+
+.blogitem {
+    margin: 20px;
+}
+
+.blogcontainer h1{
+    margin: 37px;
+}
+
+.blogitem h2{
+    margin: 20px;
+}
+
+.blogitem p{
+    margin: 20px;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: bold;
+}
+

@@ -1,0 +1,53 @@
+
+.intro{
+   margin: 80px 88px;
+}
+
+.intro h2{
+    font-family: 'Roboto Mono', monospace;
+    margin: 12px;
+}
+
+.intro p{
+    font-family: 'Roboto Mono', monospace;
+    margin: 12px;
+}
+
+.skill{
+    height: 12px;
+    width: 265px;
+    background-color: red;
+    border: 2px solid black;
+}
+.skillcontainer{
+    margin: 2px;
+    padding: 12px;
+}
+
+.skillitem{
+    display: flex;
+    align-items: center;
+    font-family: 'Roboto Mono', monospace;
+    font-weight: 900;
+}
+
+.hunderd{
+    width: 256px;
+    background-color: aquamarine;
+}
+
+.fifty{
+    width: 128px;
+    background-color: lightgreen;
+}
+
+.twentyfive{
+    width: 75px;
+    background-color: yellow;
+}
+
+.todo{
+    font-weight: bolder;
+    margin: 100px;
+    font-family: 'Roboto Mono', monospace;
+}
